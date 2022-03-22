@@ -1,0 +1,42 @@
+D:\Uni\Game Programming\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.deps.json
+D:\Uni\Game Programming\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.runtimeconfig.json
+D:\Uni\Game Programming\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.runtimeconfig.dev.json
+D:\Uni\Game Programming\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.dll
+D:\Uni\Game Programming\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.pdb
+D:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.csprojAssemblyReference.cache
+D:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.csproj.CoreCompileInputs.cache
+D:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.AssemblyInfoInputs.cache
+D:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.AssemblyInfo.cs
+D:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.dll
+D:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.pdb
+E:\Uni\Game Programming\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.deps.json
+E:\Uni\Game Programming\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.runtimeconfig.json
+E:\Uni\Game Programming\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.runtimeconfig.dev.json
+E:\Uni\Game Programming\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.dll
+E:\Uni\Game Programming\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.pdb
+E:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.csprojAssemblyReference.cache
+E:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.AssemblyInfoInputs.cache
+E:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.AssemblyInfo.cs
+E:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.dll
+E:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.pdb
+E:\Uni\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.deps.json
+E:\Uni\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.runtimeconfig.json
+E:\Uni\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.runtimeconfig.dev.json
+E:\Uni\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.dll
+E:\Uni\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.pdb
+E:\Uni\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.csprojAssemblyReference.cache
+E:\Uni\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.AssemblyInfoInputs.cache
+E:\Uni\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.AssemblyInfo.cs
+E:\Uni\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.dll
+E:\Uni\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.pdb
+D:\Uni\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.deps.json
+D:\Uni\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.runtimeconfig.json
+D:\Uni\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.runtimeconfig.dev.json
+D:\Uni\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.dll
+D:\Uni\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.pdb
+D:\Uni\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.csprojAssemblyReference.cache
+D:\Uni\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.csproj.CoreCompileInputs.cache
+D:\Uni\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.AssemblyInfoInputs.cache
+D:\Uni\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.AssemblyInfo.cs
+D:\Uni\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.dll
+D:\Uni\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.pdb

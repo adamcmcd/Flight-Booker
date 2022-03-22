@@ -1,0 +1,21 @@
+D:\Uni\Game Programming\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.deps.json
+D:\Uni\Game Programming\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.runtimeconfig.json
+D:\Uni\Game Programming\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.runtimeconfig.dev.json
+D:\Uni\Game Programming\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.dll
+D:\Uni\Game Programming\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.pdb
+D:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.csprojAssemblyReference.cache
+D:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.csproj.CoreCompileInputs.cache
+D:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.AssemblyInfoInputs.cache
+D:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.AssemblyInfo.cs
+D:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.dll
+D:\Uni\Game Programming\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.pdb
+C:\Users\Adam McDonnell\Documents\Work\Degree\Game Programming\Assessment\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.deps.json
+C:\Users\Adam McDonnell\Documents\Work\Degree\Game Programming\Assessment\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.runtimeconfig.json
+C:\Users\Adam McDonnell\Documents\Work\Degree\Game Programming\Assessment\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.runtimeconfig.dev.json
+C:\Users\Adam McDonnell\Documents\Work\Degree\Game Programming\Assessment\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.dll
+C:\Users\Adam McDonnell\Documents\Work\Degree\Game Programming\Assessment\Assessment\Assessment\bin\Debug\netcoreapp2.1\Assessment.pdb
+C:\Users\Adam McDonnell\Documents\Work\Degree\Game Programming\Assessment\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.csprojAssemblyReference.cache
+C:\Users\Adam McDonnell\Documents\Work\Degree\Game Programming\Assessment\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.AssemblyInfoInputs.cache
+C:\Users\Adam McDonnell\Documents\Work\Degree\Game Programming\Assessment\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.AssemblyInfo.cs
+C:\Users\Adam McDonnell\Documents\Work\Degree\Game Programming\Assessment\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.dll
+C:\Users\Adam McDonnell\Documents\Work\Degree\Game Programming\Assessment\Assessment\Assessment\obj\Debug\netcoreapp2.1\Assessment.pdb
